@@ -2,7 +2,9 @@
 A quick start project that helps you to create the Syncfusion Angular Grid and bind observable list to it. You will also learn how to perform CRUD operations with list observable using async pipe.
 
 Watch the video now: https://www.syncfusion.com/tutorial-videos/angular/grid?title=perform-crud-operations-in-angular-grid-using-observables
+
 Documentation: https://ej2.syncfusion.com/angular/documentation/grid/observables/
+
 Online example: https://ej2.syncfusion.com/angular/demos/#/material/grid/async-pipe
 
 ## Project pre-requisites
