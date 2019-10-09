@@ -12,11 +12,6 @@ Make sure that you have the compatible versions of TypeScript and Angular in you
 * Angular 4+
 * TypeScript 2.6+
 
-## How to run this project?
-
-Run the command "npm install" to install all the required packages to your project and then run the `ng serve` command for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
-
-
 ## How to run this application?
 To run this application, you need to first clone the `how-to-perform-CRUD-operations-on-angular-grid-using-observable-and-async-pipes` repository and then navigate to its appropriate path where it has been located in your system.
 
@@ -35,7 +30,7 @@ npm install
 ```
 
 ## Running on development server
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Run `ng serve` command for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
 ## Further help
 
